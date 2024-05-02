@@ -1,2 +1,5 @@
-# Apparent-Temperature-Prediction-
-An AIML PROJECT
+**Weather forecasting is the application of science and technology to predict the state of the atmosphere for a given location. Ancient weather forecasting methods usually relied on observed patterns of events, also termed pattern recognition. For example, it might be observed that if the sunset was particularly red, the following day often brought fair weather. However, not all of these predictions prove reliable. Apparent temperature, also known as feels like, is the temperature equivalent perceived by humans, caused by the combined effects of air temperature, relative humidity and wind speed. Here this system will predict weather based on parameters such as temperature, humidity, pressure and wind. This System is a web application with an effective graphical user interface. The role of the admin is to add previous weather data in the database, so that the system will calculate weather based on these data. Weather forecasting system takes parameters such as temperature, humidity, and wind and will forecast weather based on previous records therefore this prediction will prove reliable. This system can be used in Air Traffic, Marine, Agriculture, Forestry, Military, and Navy etc.**
+
+
+![Screenshot 2024-05-02 200016](https://github.com/GrithiAkshayaa/Apparent-Temperature-Prediction-/assets/141016040/9807b7ca-90ac-4f0e-972a-ca3b1e5bd5b3)
+
